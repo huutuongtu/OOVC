@@ -1,0 +1,14 @@
+glob2
+tqdm
+librosa==0.9.1
+numpy
+scipy
+tensorboard
+einops
+transformers
+matplotlib
+pyctcdecode
+resemblyzer
+jiwer
+scikit-learn
+praat-parselmouth
