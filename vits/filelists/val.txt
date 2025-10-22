@@ -1,0 +1,10 @@
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_0_spk_49.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_0_spk_97.wav|He sets the nature of his Parliament in a simple, realistic context.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_1_spk_33.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_1_spk_65.wav|I am desperate to play for Scotland.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_2_spk_61.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_2_spk_45.wav|"Meanwhile, the Scottish Consumer Council yesterday offered support for the new Bill."
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_3_spk_64.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_3_spk_17.wav|Even for a British Open, this is different.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_4_spk_79.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_4_spk_102.wav|They thought they had found a home.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_5_spk_39.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_5_spk_12.wav|The government agreed to pay.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_6_spk_60.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_6_spk_71.wav|And then he laughs.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_7_spk_40.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_7_spk_78.wav|It was looking bad.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_8_spk_70.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_8_spk_61.wav|But this relative success has not been easy.
+/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_9_spk_7.wav|/home/jovyan/voice-chung/tuht/vits/dataset/audio/sentence_9_spk_103.wav|A career as a doctor is on hold.

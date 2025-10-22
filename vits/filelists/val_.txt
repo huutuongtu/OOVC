@@ -1,0 +1,100 @@
+./data/vctk/43476_47.wav|./data/vctk/43476_57.wav|The songs are just so good.
+./data/vctk/43487_92.wav|./data/vctk/43487_106.wav|It's been a humbling year.
+./data/vctk/43477_71.wav|./data/vctk/43477_38.wav|If they don't, they can expect their funding to be cut.
+./data/vctk/43472_64.wav|./data/vctk/43472_52.wav|It is open season on the Old Firm.
+./data/vctk/43480_59.wav|./data/vctk/43480_65.wav|We were leading by two goals.)
+./data/vctk/43486_101.wav|./data/vctk/43486_57.wav|They've got to account for it.
+./data/vctk/43485_30.wav|./data/vctk/43485_27.wav|The petition was formally presented at Downing Street yesterday.
+./data/vctk/43471_12.wav|./data/vctk/43471_88.wav|It had happened to him.
+./data/vctk/43474_81.wav|./data/vctk/43474_83.wav|It is not a U-turn.
+./data/vctk/43481_73.wav|./data/vctk/43481_49.wav|Let's see that increase over the years.
+./data/vctk/43475_34.wav|./data/vctk/43475_41.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+./data/vctk/43482_5.wav|./data/vctk/43482_75.wav|There is no quick fix.
+./data/vctk/43491_94.wav|./data/vctk/43491_25.wav|The shareholders will vote to wind up the company on Friday morning.
+./data/vctk/43493_106.wav|./data/vctk/43493_90.wav|She told The Herald.
+./data/vctk/43484_59.wav|./data/vctk/43484_69.wav|Sounds like The Sixth Sense?
+./data/vctk/43492_29.wav|./data/vctk/43492_69.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+./data/vctk/43478_100.wav|./data/vctk/43478_77.wav|I've never seen anything like it.
+./data/vctk/43490_75.wav|./data/vctk/43490_101.wav|Diving is no part of football.
+./data/vctk/43488_96.wav|./data/vctk/43488_45.wav|The project has already secured the support of Sir Sean Connery.
+./data/vctk/43479_35.wav|./data/vctk/43479_14.wav|It is a job creation scheme.)
+./data/vctk/43494_0.wav|./data/vctk/43494_100.wav|All will be revealed in due course.
+./data/vctk/43483_87.wav|./data/vctk/43483_11.wav|And that brings us to the point.
+./data/vctk/43497_107.wav|./data/vctk/43497_86.wav|I wish I could say something.
+./data/vctk/43473_95.wav|./data/vctk/43473_50.wav|However, he is a coach, and he remains a coach at heart.
+./data/vctk/43489_91.wav|./data/vctk/43489_51.wav|The team this year is going places.
+./data/vctk/43500_77.wav|./data/vctk/43500_57.wav|Today I couldn't run on it.
+./data/vctk/43498_48.wav|./data/vctk/43498_95.wav|It's good to have a voice.
+./data/vctk/43502_48.wav|./data/vctk/43502_57.wav|They will run a mile.
+./data/vctk/43499_42.wav|./data/vctk/43499_40.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+./data/vctk/43501_88.wav|./data/vctk/43501_92.wav|The atmosphere is businesslike.
+./data/vctk/43496_49.wav|./data/vctk/43496_51.wav|It is all about people being assaulted, abused.
+./data/vctk/43495_50.wav|./data/vctk/43495_73.wav|IT shouldn't come as a surprise, but it does.
+./data/vctk/43505_24.wav|./data/vctk/43505_69.wav|Today she has been released.
+./data/vctk/43503_90.wav|./data/vctk/43503_104.wav|It didn't put me off.
+./data/vctk/43504_84.wav|./data/vctk/43504_50.wav|It sounded like a bomb.
+./data/vctk/43507_3.wav|./data/vctk/43507_67.wav|And a film maker was born.
+./data/vctk/43508_44.wav|./data/vctk/43508_81.wav|The Home Office would not release any further details about the group.
+./data/vctk/43509_44.wav|./data/vctk/43509_59.wav|Johnson was pretty low.
+./data/vctk/43515_71.wav|./data/vctk/43515_54.wav|I am not even thinking about that.
+./data/vctk/43516_46.wav|./data/vctk/43516_69.wav|It was magic.
+./data/vctk/43514_58.wav|./data/vctk/43514_22.wav|He released a half-dozen solo albums.
+./data/vctk/43506_1.wav|./data/vctk/43506_31.wav|It was worth a photograph.
+./data/vctk/43511_91.wav|./data/vctk/43511_78.wav|He is a man of the people.
+./data/vctk/43512_75.wav|./data/vctk/43512_71.wav|"It is a terrible loss."
+./data/vctk/43510_0.wav|./data/vctk/43510_64.wav|This area is perfect for children.
+./data/vctk/43517_28.wav|./data/vctk/43517_30.wav|I'm trying to stay open on that.
+./data/vctk/43518_46.wav|./data/vctk/43518_40.wav|We are in the end game.
+./data/vctk/43513_30.wav|./data/vctk/43513_48.wav|It is a good lifestyle.
+./data/vctk/43519_83.wav|./data/vctk/43519_48.wav|Then we will face the Danish champions.
+./data/vctk/43520_30.wav|./data/vctk/43520_87.wav|It was only later that the condition was diagnosed.
+./data/vctk/43521_11.wav|./data/vctk/43521_98.wav|They failed to reach agreement yesterday.
+./data/vctk/43522_68.wav|./data/vctk/43522_10.wav|They made such decisions in London.
+./data/vctk/43523_90.wav|./data/vctk/43523_79.wav|That got me out.
+./data/vctk/43524_8.wav|./data/vctk/43524_22.wav|You hope he prevails.
+./data/vctk/43525_76.wav|./data/vctk/43525_78.wav|They could not ignore the will of parliament, he claimed.
+./data/vctk/43528_42.wav|./data/vctk/43528_48.wav|I can understand the frustrations of our fans.
+./data/vctk/43526_73.wav|./data/vctk/43526_104.wav|This is our unfinished business.
+./data/vctk/43527_103.wav|./data/vctk/43527_95.wav|I would have the hammer in the crowd.
+./data/vctk/43530_57.wav|./data/vctk/43530_22.wav|He did not oppose the divorce.
+./data/vctk/43531_67.wav|./data/vctk/43531_72.wav|We are the gateway to justice.
+./data/vctk/43529_2.wav|./data/vctk/43529_65.wav|There is , according to legend, a boiling pot of gold at one end. )
+./data/vctk/43532_39.wav|./data/vctk/43532_36.wav|None has ever been found.
+./data/vctk/43536_108.wav|./data/vctk/43536_57.wav|It is a policy which has the full support of the minister.
+./data/vctk/43533_17.wav|./data/vctk/43533_0.wav|We were given a warm and friendly reception.
+./data/vctk/43538_61.wav|./data/vctk/43538_15.wav|This would give Scotland around eight members.
+./data/vctk/43534_10.wav|./data/vctk/43534_102.wav|Who do these people think they are?
+./data/vctk/43535_12.wav|./data/vctk/43535_106.wav|They exist in name alone.
+./data/vctk/43537_63.wav|./data/vctk/43537_102.wav|I'm wondering what you feel about the youngest.
+./data/vctk/43542_68.wav|./data/vctk/43542_3.wav|She did that for the rest of her life.
+./data/vctk/43539_87.wav|./data/vctk/43539_28.wav|United were in control without always being dominant.
+./data/vctk/43541_6.wav|./data/vctk/43541_63.wav|Tiger is not the norm.
+./data/vctk/43540_3.wav|./data/vctk/43540_79.wav|I did not think it was very proper.
+./data/vctk/43543_60.wav|./data/vctk/43543_39.wav|The decision was announced at its annual conference in Dunfermline.
+./data/vctk/43544_56.wav|./data/vctk/43544_34.wav|She became a heroine of my childhood.
+./data/vctk/43548_71.wav|./data/vctk/43548_15.wav|Is that right?
+./data/vctk/43545_55.wav|./data/vctk/43545_52.wav|It was a bit like having children.
+./data/vctk/43547_61.wav|./data/vctk/43547_43.wav|That decision is for the British Parliament and people.
+./data/vctk/43546_54.wav|./data/vctk/43546_64.wav|But the tragedy did not stop there.
+./data/vctk/43550_58.wav|./data/vctk/43550_24.wav|You could feel the heat.
+./data/vctk/43549_29.wav|./data/vctk/43549_93.wav|It is so sad.
+./data/vctk/43551_37.wav|./data/vctk/43551_56.wav|Neither side would reveal the details of the offer.
+./data/vctk/43552_30.wav|./data/vctk/43552_85.wav|And frankly, it's been a while.
+./data/vctk/43553_41.wav|./data/vctk/43553_73.wav|It is unique.
+./data/vctk/43555_77.wav|./data/vctk/43555_35.wav|This hasn't happened in a vacuum.
+./data/vctk/43554_94.wav|./data/vctk/43554_98.wav|Sometimes you get them, sometimes you don't.
+./data/vctk/43556_55.wav|./data/vctk/43556_107.wav|There is great potential on this river.
+./data/vctk/43558_104.wav|./data/vctk/43558_81.wav|It's a fact.
+./data/vctk/43559_40.wav|./data/vctk/43559_58.wav|We're very excited and challenged by the project.
+./data/vctk/43557_93.wav|./data/vctk/43557_24.wav|We have not yet received a letter from the Irish.
+./data/vctk/43560_5.wav|./data/vctk/43560_94.wav|A Grampian Police spokesman said.
+./data/vctk/43561_82.wav|./data/vctk/43561_12.wav|To the Hebrews it was a token that there would be no more universal floods.
+./data/vctk/43562_32.wav|./data/vctk/43562_27.wav|It's a record label, not a form of music.
+./data/vctk/43565_27.wav|./data/vctk/43565_94.wav|Is this accurate?
+./data/vctk/43569_0.wav|./data/vctk/43569_8.wav|We did what we had to do.
+./data/vctk/43566_87.wav|./data/vctk/43566_40.wav|It's not fair.
+./data/vctk/43563_91.wav|./data/vctk/43563_14.wav|I am considered a teenager.)
+./data/vctk/43564_14.wav|./data/vctk/43564_104.wav|It should be a condition of employment.
+./data/vctk/43567_93.wav|./data/vctk/43567_73.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+./data/vctk/43568_96.wav|./data/vctk/43568_2.wav|Mr Irvine said Mr Rafferty was now in good spirits.
+./data/vctk/43570_14.wav|./data/vctk/43570_60.wav|It is a relief.
