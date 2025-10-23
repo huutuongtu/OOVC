@@ -1,5 +1,8 @@
 # [EMNLP 2025 Findings] O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion  
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.09061-b31b1b.svg)](https://arxiv.org/abs/2510.09061)
+[![Demo](https://img.shields.io/badge/Demo-Website-4CAF50.svg)](https://oovc-emnlp-2025.github.io/)
+
 
 ## 🛠 Setup & Dependencies  
 
@@ -13,6 +16,7 @@ cd OOVC
 
 ```bash
 conda create -n oovc python==3.10.12
+conda activate oovc
 pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
 ```
@@ -45,6 +49,7 @@ python convert.py \
 
 ```
 OOVC/
+├── ...               
 ├── convert.py               # Main inference script
 ├── models_f0.py             # Generator model definition
 ├── mel_processing.py        # Mel spectrogram utilities
@@ -60,6 +65,7 @@ OOVC/
 └── logs/
     └── oovc_w_f0/
         └── G_1470000.pth
+
 ```
 
 ---
@@ -81,4 +87,5 @@ If you use this code, please cite our paper:
 
 ## 🧠 Acknowledgements
 
-This implementation builds upon **FreeVC** 
+This implementation builds upon [**FreeVC**](https://github.com/OlaWod/FreeVC) and [**VITS**](https://github.com/jaywalnut310/vits).
+ 
